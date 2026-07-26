@@ -1,85 +1,76 @@
-<!-- ### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Samandar Abdugafforov*.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,50:A076F9,100:00C6FF&height=220&section=header&text=Hi%20There!%20I'm%20Zuhriddin%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=A076F9&center=true&vCenter=true&width=600&lines=Ismoilov+Zuhriddin;Mobile+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A9;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-▫️Video Creator📹<br />
-▫️Frontend Developer🧑‍💻<br />
-▫️Instagram mask maker🎨<br />
-🔰Founder , CEO , Developer at UzCleverTeam👥
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=umidjonakramov&style=for-the-badge&color=A076F9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/umidjonakramov?style=for-the-badge&color=F75C7E&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 
-<br />
+<br/>
 
-## 🔨 Languages and Tools:
+<a href="https://t.me/knyaz_0903"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://instagram.com/knyaz0903"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/umidjonakramov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-[<img align="left" alt="HTML" width="26px" src="./techs/html.svg" />][html]
-[<img align="left" alt="CSS" width="26px" src="./techs/css.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="./techs/javascript.svg" />][javascript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./techs/vscode.svg" />][vscode]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="./techs/intellij.svg" />][jetbrains]
-[<img align="left" alt="Powershell" width="26px" src="./techs/powershell.svg" />][powershell]
-[<img align="left" alt="Git" width="26px" src="./techs/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
-[<img align="left" alt="Heroku" width="26px" src="./techs/heroku.svg" />][heroku]
-[<img align="left" alt="Android" width="26px" src="./techs/android.svg" />][android]
-[<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
-[<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
- 
-<br />
-<br />
+</div>
 
-<br />
+<br/>
 
-<details>
+## 🚀 About Me
 
-  <summary>⚜ Top Langs</summary>
-  
-  <br />
-  
-  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandareo&theme=algolia&layout=compact)
-  
-</details>
+- 📱 I build **mobile apps with Android & Flutter** and love turning ideas into smooth, working products
+- 🧩 I enjoy breaking down hard problems and finding the cleanest solution
+- 🌱 Currently sharpening my skills and exploring new tools & frameworks
+- 🎯 Goal: ship polished, production-ready apps that people actually enjoy using
+- 💬 Ask me about Flutter, Android development, debugging, or app architecture
+- 📍 Based in Uzbekistan
 
-<br /> -->
+<br/>
 
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,swift,apple,html,css,js,cpp,c,cs,python,git,github,vscode,idea,docker,linux,windows,powershell,mongodb,postgres,aws,heroku&theme=dark&perline=13" alt="Tech Stack"/>
+</p>
 
+<br/>
 
-<!-- ![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samandareo&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samandareo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umidjonakramov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjonakramov&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
-![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjonakramov&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+<br/>
 
+## 🏆 Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umidjonakramov&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
 
-<!-- [html]: https://www.w3schools.com/html/default.asp
-[css]: https://www.w3schools.com/css/default.asp
-[javascript]: https://www.javascript.com/
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/
-[powershell]: https://docs.microsoft.com/en-us/powershell/
-[git]: https://git-scm.com/
-[github]: https://github.com
-[heroku]: https://www.heroku.com/
-[android]: https://www.android.com/
-[linux]: https://www.linux.org/
-[windows]: https://www.microsoft.com/en-us/windows -->
+<br/>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:A076F9,100:F75C7E&height=120&section=footer" width="100%"/>
+</div>
