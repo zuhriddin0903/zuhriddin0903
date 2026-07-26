@@ -8,14 +8,14 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=umidjonakramov&style=for-the-badge&color=A076F9&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/umidjonakramov?style=for-the-badge&color=F75C7E&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=zuhriddin0903&style=for-the-badge&color=A076F9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/zuhriddin0903?style=for-the-badge&color=F75C7E&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 
 <br/>
 
 <a href="https://t.me/knyaz_0903"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://instagram.com/knyaz0903"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/umidjonakramov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/zuhriddin0903"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -43,12 +43,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umidjonakramov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjonakramov&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuhriddin0903&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhriddin0903&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjonakramov&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhriddin0903&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -56,7 +56,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umidjonakramov&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhriddin0903&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 <br/>
@@ -65,9 +65,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/umidjonakramov/umidjonakramov/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuhriddin0903/zuhriddin0903/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuhriddin0903/zuhriddin0903/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/zuhriddin0903/zuhriddin0903/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
